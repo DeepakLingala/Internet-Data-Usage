@@ -1,0 +1,311 @@
+S.NO,DATE ,LIST OF APPILICATIONS,DATA USAGE PER APPILICATION,CONNECTION TYPE,NETWORK TYPE,PLAN TYPE,APPILICATION CATEGORY
+1,08-01-2024,Google Chrome,10 KB,Mobile Data,5G,Unlimited,Web browser
+2,08-01-2024,Instagram,49MB,Wifi,5G,Unlimited,Social Media
+3,08-01-2024,Whatsapp,105MB,Mobile Data,4G,limited,Social Media
+4,08-01-2024,Youtube,49.26MB,Mobile Data,4G,limited,Social Media
+5,08-01-2024,Youtube Music,18.01MB,Wifi,5G,Unlimited,Music Stream Service
+6,08-02-2024,Google ,16.53MB,Mobile Data,5G,limited,Web browser
+7,08-02-2024,Stream,200.76MB,Mobile Data,5G,Unlimited,Game appilication
+8,08-02-2024,Gun Sprint,69.06KB,Mobile Data,4G,limited,Game appilication
+9,08-02-2024,Phonepe,4.54MB,Wifi,5G,Unlimited,Digital Payment
+10,08-02-2024,Gmail,21.12MB,Mobile Data,5G,limited,Mailing
+11,08-03-2024,Linkedin,17.72MB,Mobile Data,5G,Unlimited,Social Media
+12,08-03-2024,Amazon,34.07MB,Mobile Data,4G,limited,Shopping
+13,08-03-2024,Truecaller,8.79MB,Mobile Data,5G,Unlimited,Call Log
+14,08-03-2024,Chatgpt,19.72MB,Wifi,5G,Unlimited,Automation Search 
+15,08-03-2024,Google Chrome,187.87MB,Mobile Data,5G,Unlimited,Web browser
+16,08-04-2024,Instagram,15.0MB,Mobile Data,5G,Unlimited,Social Media
+17,08-04-2024,Whatsapp,24.09MB,Mobile Data,5G,limited,Social Media
+18,08-04-2024,Youtube,54.05MB,Mobile Data,5G,Unlimited,Social Media
+19,08-04-2024,Youtube Music,534.09KB,Wifi,5G,Unlimited,Music Stream Service
+20,08-04-2024,Google,43.09MB,Mobile Data,5G,Unlimited,Web browser
+21,08-05-2024,Demino's,2.07MB,Mobile Data,4G,limited,College appilication
+22,08-05-2024,Lpu live,23.0KB,Wifi,5G,Unlimited,College appilication
+23,08-05-2024,Phonepe,2.08KB,Mobile Data,5G,limited,Digital Payment
+24,08-05-2024,Google pay,3.09KB,Mobile Data,5G,Unlimited,Mailing
+25,08-05-2024,Linkedin,54.09MB,Mobile Data,5G,Unlimited,Social Media
+26,08-06-2024,Bookmyshow,154.08MB,Wifi,4G,limited,Booking
+27,08-06-2024,Rapido,34.09MB,Mobile Data,5G,Unlimited,Ride booking
+28,08-06-2024,Chatgpt,78.0KB,Mobile Data,5G,limited,Automation Search 
+29,08-06-2024,Google Chrome,34.09MB,Mobile Data,5G,Unlimited,Web browser
+30,08-06-2024,Instagram,154.08MB,Mobile Data,5G,limited,Social Media
+31,08-07-2024,Whatsapp,154.08KB,Wifi,4G,limited,Social Media
+32,08-07-2024,Youtube,32.0MB,Mobile Data,5G,Unlimited,Social Media
+33,08-07-2024,Youtube Music,10.03KB,Mobile Data,5G,limited,Music Stream Service
+34,08-07-2024,Google,16.53MB,Mobile Data,5G,Unlimited,Web browser
+35,08-07-2024,Demino's,34.09KB,Wifi,5G,Unlimited,College appilication
+36,08-08-2024,Lpu live,23.0KB,Mobile Data,5G,limited,College appilication
+37,08-08-2024,Phonepe,6.0KB,Mobile Data,5G,Unlimited,Digital Payment
+38,08-08-2024,Gmail,34.09MB,Mobile Data,5G,limited,Mailing
+39,08-08-2024,Linkedin,213.0KB,Mobile Data,5G,Unlimited,Social Media
+40,08-08-2024,Amazon,45.0MB,Mobile Data,4G,limited,Shopping
+41,08-09-2024,Truecaller,23.0KB,Wifi,5G,Unlimited,Call Log
+42,08-09-2024,Chatgpt,67.08KB,Mobile Data,5G,Unlimited,Automation Search 
+43,08-09-2024,Google Chrome,2.08KB,Mobile Data,5G,Unlimited,Web browser
+44,08-09-2024,Instagram,3.0MB,Mobile Data,5G,limited,Social Media
+45,08-09-2024,Whatsapp,154.0KB,Mobile Data,5G,Unlimited,Social Media
+46,08-10-2024,Youtube,43.0KB,Wifi,5G,Unlimited,Social Media
+47,08-10-2024,Youtube Music,233.0KB,Mobile Data,5G,limited,Music Stream Service
+48,08-10-2024,Google,54.0KB,Mobile Data,5G,Unlimited,Web browser
+49,08-10-2024,Demino's,88.01MB,Mobile Data,5G,Unlimited,College appilication
+50,08-10-2024,Lpu live,243.0KB,Mobile Data,4G,limited,College appilication
+51,08-11-2024,Phonepe,263.0KB,Wifi,5G,Unlimited,Digital Payment
+52,08-11-2024,Demino's,34.09MB,Mobile Data,5G,Unlimited,Mailing
+53,08-11-2024,Linkedin,16.53MB,Mobile Data,4G,limited,Social Media
+54,08-11-2024,Amazon,186MB,Wifi,5G,Unlimited,Shopping
+55,08-11-2024,Truecaller,232.0KB,Mobile Data,5G,Unlimited,Call Log
+56,08-12-2024,Chatgpt,112.0MB,Mobile Data,5G,limited,Automation Search 
+57,08-12-2024,Google Chrome,14.08KB,Mobile Data,5G,Unlimited,Web browser
+58,08-12-2024,Instagram,65.0MB,Mobile Data,5G,limited,Social Media
+59,08-12-2024,Whatsapp,123.0MB,Mobile Data,5G,Unlimited,Social Media
+60,08-12-2024,Youtube,88.01MB,Mobile Data,4G,limited,Social Media
+61,8/13/2024,Youtube Music,16.53MB,Mobile Data,4G,limited,Music Stream Service
+62,8/13/2024,Google,12.0KB,Mobile Data,5G,Unlimited,Web browser
+63,8/13/2024,LPU touch,116.09MB,Wifi,5G,limited,College appilication
+64,8/13/2024,Lpu live,34.09MB,Mobile Data,5G,Unlimited,College appilication
+65,8/13/2024,Demino's,16.53MB,Mobile Data,5G,Unlimited,Delivery
+66,8/14/2024,Zomato,54.0KB,Mobile Data,5G,limited,Delivery
+67,8/14/2024,Linkedin,5.09MB,Mobile Data,5G,Unlimited,Social Media
+68,8/14/2024,Amazon,345.03MB,Wifi,5G,Unlimited,Shopping
+69,8/14/2024,Truecaller,32.09KB,Mobile Data,5G,limited,Call Log
+70,8/14/2024,Chatgpt,45.0KB,Mobile Data,5G,Unlimited,Automation Search 
+71,8/15/2024,Google Chrome,35.09KB,Mobile Data,5G,Unlimited,Web browser
+72,8/15/2024,Instagram,43.0KB,Mobile Data,5G,limited,Social Media
+73,8/15/2024,Whatsapp,232.0KB,Wifi,5G,Unlimited,Social Media
+74,8/15/2024,Youtube,72.0MB,Mobile Data,5G,Unlimited,Social Media
+75,8/15/2024,Youtube Music,88.01MB,Mobile Data,5G,Unlimited,Music Stream Service
+76,8/16/2024,Google,92.0KB,Wifi,5G,Unlimited,Web browser
+77,8/16/2024,LPU touch,65.0KB,Mobile Data,5G,Unlimited,College appilication
+78,8/16/2024,Lpu live,34.0KB,Mobile Data,5G,Unlimited,College appilication
+79,8/16/2024,Phonepe,2.0KB,Mobile Data,5G,limited,Digital Payment
+80,8/16/2024,Gmail,32.0KB,Wifi,5G,Unlimited,Mailing
+81,8/17/2024,Linkedin,42.0MB,Mobile Data,5G,Unlimited,Social Media
+82,8/17/2024,Flipkart,182.0KB,Mobile Data,4G,limited,Shopping
+83,8/17/2024,Truecaller,42.0MB,Mobile Data,5G,Unlimited,Call Log
+84,8/17/2024,Chatgpt,18.06KB,Wifi,5G,Unlimited,Automation Search 
+85,8/17/2024,Google Chrome,132.0MB,Mobile Data,4G,Unlimited,Web browser
+86,8/18/2024,Instagram,16.53MB,Mobile Data,4G,limited,Social Media
+87,8/18/2024,Whatsapp,156.53KB,Mobile Data,5G,Unlimited,Social Media
+88,8/18/2024,Youtube,34.09MB,Wifi,4G,limited,Social Media
+89,8/18/2024,Youtube Music,22.08KB,Mobile Data,5G,Unlimited,Music Stream Service
+90,8/18/2024,Google,22.08KB,Mobile Data,5G,Unlimited,Web browser
+91,8/19/2024,LPU touch,22.08MB,Wifi,5G,Unlimited,College appilication
+92,8/19/2024,Lpu live,221.08KB,Mobile Data,4G,limited,College appilication
+93,8/19/2024,Phonepe,222.08KB,Mobile Data,5G,Unlimited,Digital Payment
+94,8/19/2024,Gmail,22.08KB,Wifi,4G,limited,Mailing
+95,8/19/2024,Linkedin,88.01MB,Mobile Data,5G,Unlimited,Social Media
+96,8/20/2024,Amazon,16.53MB,Mobile Data,5G,Unlimited,Shopping
+97,8/20/2024,Truecaller,34.08KB,w,5G,Unlimited,Call Log
+98,8/20/2024,Chatgpt,345.0KB,Mobile Data,5G,limited,Automation Search 
+99,8/20/2024,Google Chrome,34.09MB,Wfi,5G,Unlimited,Web browser
+100,8/20/2024,Instagram,57.07MB,Mobile Data,5G,Unlimited,Social Media
+101,8/21/2024,Whatsapp,43.09KB,Mobile Data,4G,limited,Social Media
+102,8/21/2024,Youtube,756.09MB,Wifi,5G,Unlimited,Social Media
+103,8/21/2024,Youtube Music,65.09MB,Mobile Data,5G,Unlimited,Music Stream Service
+104,8/21/2024,Google,16.09KB,Mobile Data,5G,limited,Web browser
+105,8/21/2024,LPU touch,65.0KB,Mobile Data,4G,limited,College appilication
+106,8/22/2024,Lpu live,54.08KB,Wifi,5G,Unlimited,College appilication
+107,8/22/2024,Phonepe,16.53MB,Mobile Data,5G,limited,Digital Payment
+108,8/22/2024,Gmail,660.KB,Mobile Data,5G,Unlimited,Mailing
+109,8/22/2024,Linkedin,5.08KB,Mobile Data,5G,Unlimited,Social Media
+110,8/22/2024,Amazon,114.5KB,Mobile Data,5G,Unlimited,Shopping
+111,8/23/2024,Truecaller,5.98KB,Mobile Data,4G,limited,Call Log
+112,8/23/2024,Chatgpt,45.0KB,Wifi,5G,Unlimited,Automation Search 
+113,8/23/2024,Google Chrome,85.07KB,Mobile Data,5G,limited,Web browser
+114,8/23/2024,Instagram,54.90MB,Mobile Data,5G,Unlimited,Social Media
+115,8/23/2024,Whatsapp,56.0KB,Mobile Data,4G,limited,Social Media
+116,8/24/2024,Youtube,543.08MB,Wifi,5G,Unlimited,Social Media
+117,8/24/2024,Youtube Music,64.09MB,Mobile Data,5G,Unlimited,Music Stream Service
+118,8/24/2024,Google,67.08KB,Mobile Data,5G,Unlimited,Web browser
+119,8/24/2024,LPU touch,43.08MB,Mobile Data,4G,limited,College appilication
+120,8/24/2024,Lpu live,34.09MB,Mobile Data,5G,Unlimited,College appilication
+121,8/25/2024,Phonepe,55.07KB,Wifi,5G,Unlimited,Digital Payment
+122,8/25/2024,Gmail,34.09MB,Mobile Data,4G,limited,Mailing
+123,8/25/2024,Linkedin,46.09KB,Mobile Data,5G,Unlimited,Social Media
+124,8/25/2024,Amazon,46.09KB,Mobile Data,5G,Unlimited,Shopping
+125,8/25/2024,Truecaller,46.09KB,Mobile Data,4G,limited,Call Log
+126,8/26/2024,Chatgpt,16.53MB,Wifi,5G,Unlimited,Automation Search 
+127,8/26/2024,Google Chrome,16.53MB,Mobile Data,5G,Unlimited,Web browser
+128,8/26/2024,Instagram,16.53MB,Mobile Data,5G,Unlimited,Social Media
+129,8/26/2024,Whatsapp,16.53MB,Wfi,5G,Unlimited,Social Media
+130,8/26/2024,Youtube,16.53MB,Mobile Data,5G,limited,Social Media
+131,8/27/2024,Youtube Music,16.53MB,Mobile Data,5G,Unlimited,Music Stream Service
+132,8/27/2024,Google,16.53MB,Wifi,5G,Unlimited,Web browser
+133,8/27/2024,LPU touch,16.53MB,Mobile Data,4G,limited,College appilication
+134,8/27/2024,Lpu live,16.53MB,Mobile Data,5G,Unlimited,College appilication
+135,8/27/2024,Phonepe,34.09MB,Mobile Data,5G,limited,Digital Payment
+136,8/28/2024,Gmail,34.09MB,Mobile Data,4G,limited,Mailing
+137,8/28/2024,Linkedin,34.09MB,Wifi,5G,Unlimited,Social Media
+138,8/28/2024,Amazon,34.09MB,Mobile Data,5G,Unlimited,Shopping
+139,8/28/2024,Truecaller,16.53MB,Mobile Data,5G,limited,Call Log
+140,8/28/2024,Chatgpt,16.53MB,Mobile Data,4G,limited,Automation Search 
+141,8/29/2024,Google,186.53KB,Mobile Data,4G,limited,Search Engine
+142,8/29/2024,Whatsapp,186.53KB,Wifi,5G,Unlimited,Social Media
+143,8/29/2024,Instagram,186.53KB,Mobile Data,5G,limited,Social Media
+144,8/29/2024,Youtube,34.09MB,Wifi,5G,Unlimited,Social Media
+145,8/29/2024,Linkedin,34.09KB,Mobile Data,5G,Unlimited,Tech Media
+146,8/30/2024,BGMI,54.09KB,Mobile Data,5G,limited,Game
+147,8/30/2024,Youtube,456.07MB,Mobile Data,5G,Unlimited,Social Media
+148,8/30/2024,Instagram,43.08KB,Wifi,4G,limited,Social Media
+149,8/30/2024,Whatsapp,249.09MB,Mobile Data,5G,Unlimited,Social Media
+150,8/30/2024,Gun Sprint,266.09MB,Mobile Data,5G,limited,Game
+151,09-01-2024,Shadow fight 2,657.89MB,Wifi,5G,Unlimited,Game
+152,09-01-2024,BGMI,287.07MB,Mobile Data,5G,limited,Game
+153,09-01-2024,lpu live,123.09KB,Mobile Data,5G,Unlimited,College appilication
+154,09-01-2024,Youtube,345.09MB,Wifi,5G,Unlimited,Social Media
+155,09-01-2024,Instagram,345.09MB,Mobile Data,4G,limited,Social Media
+156,09-02-2024,Whatsapp,5.09MB,Mobile Data,5G,Unlimited,Social Media
+157,09-02-2024,Youtube,34KB,Mobile Data,5G,Unlimited,Social Media
+158,09-02-2024,BGMI,345.09MB,Wifi,4G,limited,Game
+159,09-02-2024,Instagram,35.09MB,Mobile Data,5G,Unlimited,Social Media
+160,09-02-2024,Whatsapp,5.09KB,Mobile Data,5G,Unlimited,Social Media
+161,09-03-2024,Shadow fight 2,3.098KB,Mobile Data,5G,limited,Social Media
+162,09-03-2024,lembo,3.098KB,Wifi,5G,Unlimited,Game
+163,09-03-2024,Gun Sprint,3.098KB,Mobile Data,5G,limited,Game
+164,09-03-2024,BGMI,3.098KB,Mobile Data,4G,limited,Game
+165,09-03-2024,Instagram,3.098KB,Mobile Data,5G,Unlimited,Social Media
+166,09-04-2024,Whatsapp,3.098KB,Wifi,4G,limited,Social Media
+167,09-04-2024,Youtube,3.098KB,Mobile Data,5G,Unlimited,Social Media
+168,09-04-2024,BGMI,3.098KB,Mobile Data,5G,limited,Game
+169,09-04-2024,Instagram,13.098KB,Mobile Data,5G,limited,Social Media
+170,09-04-2024,Whatsapp,123.098KB,Mobile Data,5G,limited,Game
+171,09-05-2024,BGMI,33.098KB,Wifi,5G,Unlimited,Social Media
+172,09-05-2024,Whatsapp,322.098KB,Mobile Data,5G,Unlimited,Social Media
+173,09-05-2024,Instagram,23.098KB,Wifi,5G,Unlimited,Social Media
+174,09-05-2024,Shadow fight 2,32.098KB,Mobile Data,5G,Unlimited,Game
+175,09-05-2024,Gun Sprint,3.098KB,Mobile Data,5G,Unlimited,Game
+176,09-06-2024,Instagram,3.098KB,Mobile Data,5G,Unlimited,Social Media
+177,09-06-2024,Whatsapp,53.098KB,Mobile Data,5G,Unlimited,Game
+178,09-06-2024,Gun Sprint,3.098KB,Wifi,5G,Unlimited,Game
+179,09-06-2024,Shadow fight 2,5.98MB,Mobile Data,5G,Unlimited,Game
+180,09-06-2024,BGMI,53.08KB,Mobile Data,5G,Unlimited,Game
+181,09-07-2024,Instagram,43.8MB,Mobile Data,5G,Unlimited,Social Media
+182,09-07-2024,Youtube,43.098MB,Mobile Data,5G,Unlimited,Social Media
+183,09-07-2024,Whatsapp,34.0MB,Wifi,5G,Unlimited,Social Media
+184,09-07-2024,BGMI,32.098MB,Mobile Data,5G,Unlimited,College appilication
+185,09-07-2024,Gun Sprint,3.098KB,Wifi,5G,Unlimited,Game
+186,09-08-2024,Instagram,113.08MB,Mobile Data,5G,Unlimited,Social Media
+187,09-08-2024,Gun Sprint,3.07MB,Mobile Data,5G,Unlimited,Game
+188,09-08-2024,Whatsapp,3.98KB,Wifi,5G,Unlimited,Social Media
+189,09-08-2024,Youtube,13.0MB,Mobile Data,5G,Unlimited,Social Media
+190,09-08-2024,BGMI,53.8KB,Mobile Data,5G,Unlimited,Game
+191,09-09-2024,Youtube,53.8KB,Wifi,5G,Unlimited,Social Media
+192,09-09-2024,Whatsapp,53.8KB,Mobile Data,5G,Unlimited,Social Media
+193,09-09-2024,Shadow fight 2,145.09MB,Mobile Data,5G,Unlimited,Game
+194,09-09-2024,Instagram,153.8KB,Mobile Data,5G,Unlimited,Social Media
+195,09-09-2024,Gun Sprint,53.8KB,Mobile Data,5G,Unlimited,Game
+196,09-10-2024,Instagram,83.8KB,Wifi,5G,Unlimited,Social Media
+197,09-10-2024,Whatsapp,53.8KB,Mobile Data,5G,Unlimited,social Media
+198,09-10-2024,Gun Sprint,2.8MB,Mobile Data,5G,Unlimited,Game
+199,09-10-2024,Shadow fight 2,53.8KB,Wifi,5G,Unlimited,Game
+200,09-10-2024,Youtube,3.8KB,Mobile Data,5G,Unlimited,Social Media
+201,09-11-2024,BGMI,23.68MB,Mobile Data,5G,Unlimited,College appilication
+202,09-11-2024,Gun Sprint,8.8MB,Wifi,5G,Unlimited,Game
+203,09-11-2024,Instagram,53.8KB,Mobile Data,5G,Unlimited,Social Media
+204,09-11-2024,Whatsapp,153.8MB,Mobile Data,5G,Unlimited,Social Media
+205,09-11-2024,Shadow fight 2,3.8MB,Wifi,5G,Unlimited,Game
+206,09-12-2024,Gun Sprint,53.8KB,Mobile Data,5G,Unlimited,Game
+207,09-12-2024,Instagram,4.8KB,Wifi,5G,Unlimited,Social Media
+208,09-12-2024,Whatsapp,53.8KB,Mobile Data,5G,Unlimited,Social Media
+209,09-12-2024,Youtube,15.09MB,Mobile Data,4G,limited,Social Media
+210,09-12-2024,Shadow fight 2,15.0725701829695 MB,Mobile Data,5G,Unlimited,Game
+211,9/13/2024,Whatsapp,15.030358777828 MB,Wifi,5G,Unlimited,Social Media
+212,9/13/2024,Instagram,15.09,Mobile Data,5G,Unlimited,Social Media
+213,9/13/2024,Gun Sprint,15.09MB,Wifi,5G,Unlimited,Social Media
+214,9/13/2024,Shadow fight 2,15.09MB,Mobile Data,5G,Unlimited,College appilication
+215,9/13/2024,BGMI,15.12,Mobile Data,5G,Unlimited,Social Media
+216,9/14/2024,Instagram,15.09MB,Wifi,5G,Unlimited,Game
+217,9/14/2024,Whatsapp,15.02KB,Mobile Data,5G,Unlimited,Game
+218,9/14/2024,Gun Sprint,315.08KB,Mobile Data,5G,Unlimited,Social Media
+219,9/14/2024,Shadow fight 2,41.03MB,Wifi,5G,Unlimited,Social Media
+220,9/14/2024,Youtube,145.13KB,Mobile Data,5G,Unlimited,Social Media
+221,9/15/2024,Instagram,15.17KB,Mobile Data,4G,Unlimited,Social Media
+222,9/15/2024,Whatsapp,155.2KB,Wifi,5G,Unlimited,Game
+223,9/15/2024,Gun Sprint,135.09KB,Mobile Data,5G,Unlimited,Game
+224,9/15/2024,BGMI,154.02KB,Wifi,5G,Unlimited,Social Media
+225,9/15/2024,Shadow fight 2,50 MB,Mobile Data,5G,limited,Social Media
+226,9/16/2024,Instagram,77 MB,Mobile Data,5G,limited,Social Media
+227,9/16/2024,Whatsapp,94 MB,Mobile Data,5G,limited,Game
+228,9/16/2024,Gun Sprint,86 MB,Wifi,5G,limited,Game
+229,9/16/2024,BGMI,61 MB,Mobile Data,5G,limited,College appilication
+230,9/16/2024,BGMI,75 MB,Wifi,5G,limited,College appilication
+231,9/17/2024,Whatsapp,57 MB,Mobile Data,5G,limited,Social Media
+232,9/17/2024,Instagram,99 MB,Mobile Data,5G,limited,Game
+233,9/17/2024,Gun Sprint,64 MB,Wifi,5G,limited,Game
+234,9/17/2024,BGMI,99 MB,Mobile Data,5G,Unlimited,Game
+235,9/17/2024,Shadow fight 2,85 MB,Mobile Data,5G,Unlimited,Social Media
+236,9/18/2024,Youtube,51 MB,Wifi,5G,Unlimited,Social Media
+237,9/18/2024,Whatsapp,110 MB,Mobile Data,5G,Unlimited,Social Media
+238,9/18/2024,Gun Sprint,51 MB,Mobile Data,5G,Unlimited,Game
+239,9/18/2024,Shadow fight 2,94 MB,Mobile Data,5G,Unlimited,Game
+240,9/18/2024,Instagram,82 MB,Wifi,5G,Unlimited,Social Media
+241,9/19/2024,Whatsapp,57 MB,Mobile Data,5G,Unlimited,Social Media
+242,9/19/2024,Instagram,99 MB,Mobile Data,5G,limited,Social Media
+243,9/19/2024,Shadow fight 2,63 MB,Wifi,5G,Unlimited,Game
+244,9/19/2024,BGMI,91 MB,Mobile Data,5G,Unlimited,Game
+245,9/19/2024,Gun Sprint,99 MB,Wifi,5G,Unlimited,Game
+246,9/20/2024,BGMI,61 MB,Mobile Data,5G,Unlimited,College appilication
+247,9/20/2024,Whatsapp,90 MB,Mobile Data,5G,Unlimited,Social Media
+248,9/20/2024,Instagram,62 MB,Mobile Data,5G,Unlimited,Social Media
+249,9/20/2024,Gun Sprint,78 MB,Wifi,5G,Unlimited,Game
+250,9/20/2024,Youtube,66 MB,Mobile Data,5G,Unlimited,Social Media
+251,9/21/2024,Instagram,75 MB,Mobile Data,5G,Unlimited,Game
+252,9/21/2024,Gun Sprint,71 MB,Mobile Data,5G,limited,Social Media
+253,9/21/2024,Youtube,56 MB,Wifi,5G,Unlimited,Social Media
+254,9/21/2024,Gun Sprint,89 MB,Mobile Data,5G,Unlimited,Game
+255,9/21/2024,Shadow fight 2,68 MB,Mobile Data,5G,limited,Game
+256,9/22/2024,Youtube,65 MB,Wifi,5G,Unlimited,Social Media
+257,9/22/2024,Instagram,50 MB,Mobile Data,5G,Unlimited,Game
+258,9/22/2024,Shadow fight 2,65 MB,Mobile Data,5G,Unlimited,Game
+259,9/22/2024,Gun Sprint,70 MB,Mobile Data,5G,limited,College appilication
+260,9/22/2024,BGMI,87 MB,Wifi,5G,Unlimited,Social Media
+261,9/23/2024,Whatsapp,94 MB,Mobile Data,5G,limited,Social Media
+262,9/23/2024,Instagram,100 MB,Mobile Data,5G,Unlimited,Game
+263,9/23/2024,Shadow fight 2,50 MB,Mobile Data,5G,Unlimited,Social Media
+264,9/23/2024,Youtube,75 MB,Mobile Data,5G,Unlimited,Game
+265,9/23/2024,Gun Sprint,66 MB,Mobile Data,5G,Unlimited,Game
+266,9/24/2024,Shadow fight 2,85 MB,Wifi,5G,Unlimited,Social Media
+267,9/24/2024,Instagram,94 MB,Mobile Data,5G,Unlimited,Social Media
+268,9/24/2024,Whatsapp,77 MB,Mobile Data,5G,Unlimited,Game
+269,9/24/2024,Gun Sprint,70 MB,Mobile Data,5G,limited,Social Media
+270,9/24/2024,Youtube,56 MB,Mobile Data,5G,Unlimited,Social Media
+271,9/25/2024,Instagram,94 MB,Mobile Data,5G,Unlimited,Social Media
+272,9/25/2024,Whatsapp,88 MB,Mobile Data,5G,limited,Social Media
+273,9/25/2024,Gun Sprint,68 MB,Mobile Data,5G,Unlimited,Game
+274,9/25/2024,Shadow fight 2,65 MB,Wifi,5G,Unlimited,Game
+275,9/25/2024,Youtube,65 MB,Mobile Data,5G,Unlimited,Social Media
+276,9/26/2024,Instagram,84 MB,Mobile Data,4G,limited,Social Media
+277,9/26/2024,Whatsapp,66 MB,Wifi,5G,Unlimited,Social Media
+278,9/26/2024,Gun Sprint,80 MB,Mobile Data,5G,limited,Game
+279,9/26/2024,Shadow fight 2,185.09KB,Mobile Data,5G,Unlimited,Game
+280,9/26/2024,BGMI,12.3997930950281 MB,Wifi,5G,limited,Game
+281,9/27/2024,Instagram,12.8855866284509 MB,Mobile Data,5G,Unlimited,Social Media
+282,9/27/2024,BGMI,91 MB,Mobile Data,5G,Unlimited,Game
+283,9/27/2024,Shadow fight 2,81 MB,Mobile Data,5G,limited,Social Media
+284,9/27/2024,Whatsapp,95 MB,Mobile Data,5G,Unlimited,Social Media
+285,9/27/2024,Youtube,54 MB,Mobile Data,5G,limited,Social Media
+286,9/28/2024,Instagram,68 MB,Mobile Data,5G,Unlimited,Social Media
+287,9/28/2024,Whatsapp,70 MB,Wifi,5G,Unlimited,Social Media
+288,9/28/2024,Youtube,81 MB,Mobile Data,5G,Unlimited,Game
+289,9/28/2024,Shadow fight 2,71 MB,Mobile Data,5G,limited,Game
+290,9/28/2024,Gun Sprint,64 MB,Mobile Data,5G,Unlimited,Game
+291,9/29/2024,Gun Sprint,63 KB,Wifi,5G,limited,Game
+292,9/29/2024,Instagram,86 MB,Mobile Data,5G,Unlimited,Social Media
+293,9/29/2024,Youtube,99 MB,Mobile Data,5G,Unlimited,Social Media
+294,9/29/2024,Whatsapp,76 KB,Mobile Data,5G,limited,Social Media
+295,9/29/2024,BGMI,67 MB,Wifi,5G,Unlimited,Social Media
+296,9/30/2024,Instagram,78 MB,Mobile Data,5G,Unlimited,Social Media
+297,9/30/2024,Whatsapp,89 MB,Mobile Data,5G,Unlimited,Game
+298,9/30/2024,BGMI,78 MB,Wifi,5G,limited,Game
+299,9/30/2024,Shadow fight 2,84 MB,Mobile Data,5G,Unlimited,Game
+300,9/30/2024,Youtube,97 MB,Wifi,5G,Unlimited,Social Media
+301,10-01-2024,Instagram,86 MB,Mobile Data,5G,Unlimited,Social Media
+302,10-01-2024,Whatsapp,94 MB,Mobile Data,5G,limited,Social Media
+303,10-01-2024,Shadow fight 2,55 MB,Wifi,5G,Unlimited,Game
+304,10-01-2024,BGMI,92 MB,Mobile Data,5G,limited,Game
+305,10-01-2024,Gun Sprint,87 MB,Mobile Data,5G,Unlimited,Game
+306,10-02-2024,Whatsapp,62 MB,Wifi,5G,Unlimited,Social Media
+307,10-02-2024,Instagram,57 MB,Mobile Data,5G,Unlimited,Social Media
+308,10-02-2024,Gun Sprint,66 MB,Wifi,5G,limited,Game
+309,10-02-2024,Shadow fight 2,91 MB,Mobile Data,5G,Unlimited,Game
+310,10-02-2024,BGMI,53 MB,Wifi,5G,Unlimited,Game
